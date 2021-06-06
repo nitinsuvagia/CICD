@@ -1,0 +1,15 @@
+/Users/nitinsuvagiya/Documents/sample-project-dotnet-core/bin/Debug/net5.0/sample-project-dotnet-core.deps.json
+/Users/nitinsuvagiya/Documents/sample-project-dotnet-core/bin/Debug/net5.0/sample-project-dotnet-core.runtimeconfig.json
+/Users/nitinsuvagiya/Documents/sample-project-dotnet-core/bin/Debug/net5.0/sample-project-dotnet-core.runtimeconfig.dev.json
+/Users/nitinsuvagiya/Documents/sample-project-dotnet-core/bin/Debug/net5.0/sample-project-dotnet-core.dll
+/Users/nitinsuvagiya/Documents/sample-project-dotnet-core/bin/Debug/net5.0/ref/sample-project-dotnet-core.dll
+/Users/nitinsuvagiya/Documents/sample-project-dotnet-core/bin/Debug/net5.0/sample-project-dotnet-core.pdb
+/Users/nitinsuvagiya/Documents/sample-project-dotnet-core/obj/Debug/net5.0/sample-project-dotnet-core.csprojAssemblyReference.cache
+/Users/nitinsuvagiya/Documents/sample-project-dotnet-core/obj/Debug/net5.0/sample-project-dotnet-core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nitinsuvagiya/Documents/sample-project-dotnet-core/obj/Debug/net5.0/sample-project-dotnet-core.AssemblyInfoInputs.cache
+/Users/nitinsuvagiya/Documents/sample-project-dotnet-core/obj/Debug/net5.0/sample-project-dotnet-core.AssemblyInfo.cs
+/Users/nitinsuvagiya/Documents/sample-project-dotnet-core/obj/Debug/net5.0/sample-project-dotnet-core.csproj.CoreCompileInputs.cache
+/Users/nitinsuvagiya/Documents/sample-project-dotnet-core/obj/Debug/net5.0/sample-project-dotnet-core.dll
+/Users/nitinsuvagiya/Documents/sample-project-dotnet-core/obj/Debug/net5.0/ref/sample-project-dotnet-core.dll
+/Users/nitinsuvagiya/Documents/sample-project-dotnet-core/obj/Debug/net5.0/sample-project-dotnet-core.pdb
+/Users/nitinsuvagiya/Documents/sample-project-dotnet-core/obj/Debug/net5.0/sample-project-dotnet-core.genruntimeconfig.cache
